@@ -1,6 +1,6 @@
 # Apollo V.1
 
-Apollo is a study guide generator that provides interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space-- outlining and interlinking hierarchically arranged information. It aims to provide:
+Apollo is a study guide generator that creates interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space-- outlining and interlinking hierarchically arranged information. It aims to provide:
 
 	 - a brief linked outline / summary of important facts on the topic
 	 - a space for users to collaboratively learn with others on a specifically generated guide (quiz, progress tracking, and leaderboard features)
@@ -53,3 +53,14 @@ c. Timeline
 	The header - body relation will still be followed to maintain familiarity and consistency between the screen and printed versions. It should also follow 
 	
 	The aim of the print version is to allow users to access the generated guide without the need for bandwidth or screen time - It might be considered as a welcome alternative to help users go off screen, avoid it's readily available distractions, and focus on the information in the printed document.
+	
+6 / Data and Information / (further research on gathering methods needed -focus on reputable databases?)
+
+	All data gathered is arranged in an easy to absorb manner. One of the goals of Apollo is to present gathered data to its users in its most simple form - allowing users to easily understand and learn a topic.
+	
+	Data Gathering:
+	Data will be gathered from reputable online journals/archives
+	
+	Technical:
+	
+	* Allow users to scan in their notes - which will be translated to digital text and assessed by Apollo for integrity (this sounds like a new product and might work well on its own... "Athena?")
