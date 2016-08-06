@@ -26,11 +26,15 @@ a. Persistent Menu
 
 b. Portrait Cards
 
+	Portrait cards act as containers for interactive elements or images.
+	
 	- a square block that displays an image(portrait) by default
 
 	- on hover: displays information on the image involving a header and body
 
 	- on click: displays information + reveals scrollable content if overflow is needed
+	
+	- adequate padding from other content should be maintained to allow ease of interactivity and to increase legibility
     
 c. Timeline
 
