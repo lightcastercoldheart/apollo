@@ -1,0 +1,17 @@
+All generated guides in Apollo are made available in unique URLs to save them permanently online. Through this system, related guides
+can be grouped together and explored by users to allow them to find a specific guide that will help them learn best.
+
+Parent Guides
+
+  - Parent guides are the first guides made from a specified keyword. They will appear as the topmost guide when their specific keyword
+  is being searched. A copy of the parent guide will be made when users choose to base off of it and make some edits/modifications. The
+  edited guides will also be stacked as a child under the parent guide.
+  
+Child
+
+  - A child guide is a modification of the parent guide it is stacked under. Child guides contain the modification information to show
+  how it is different from its previous guide. The child guide can become a parent guide when a copy of it is modified.
+
+Endles Stacking System
+
+  - Stacking can be done endlessly as long as a modification is made on the parent guide.
