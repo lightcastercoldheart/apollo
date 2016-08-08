@@ -1,0 +1,9 @@
+08/08
+
+  1 - User types in keyword or topic
+  
+  2 - Apollo recognizes keyword provided by user and searches for related guides that have been already generated.
+  The user is also given the option to create a new guide (*New guides are provided with unique URLs for archiving)
+  ** See Archiving system for more information
+  
+  3 - 
