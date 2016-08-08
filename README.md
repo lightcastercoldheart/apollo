@@ -63,7 +63,20 @@ c. Timeline
 	All data gathered is arranged in an easy to absorb manner. One of the goals of Apollo is to present gathered data to its users in its most simple form - allowing users to easily understand and learn a topic.
 	
 	Data Gathering:
-	Data will be gathered from reputable online journals/archives
+	Data will be gathered from reputable art history databases online
+	
+	Popular examples:
+	
+		Proquest Design and Applied Arts Index (DAAI)
+		
+		Stylesight (WGSN)
+		
+	
+	Data Captured by User: (Potential Feature Idea)
+	
+		Users can also choose to use the notes they took during class and convert it into data through capturing their notes
+		with the camera. Apollo translates the image into data and cross-checks the translated information to stored information
+		on the database, revealing consistencies/inconsistencies and generating an interactive guide based off of it.
 	
 	Technical:
 	
