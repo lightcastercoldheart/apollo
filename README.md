@@ -11,7 +11,7 @@
 >*Cards*
 >>are the containers where generated data and interactive information will be populated into. 
 
-*1 / Features List/*
+**1 / Features List/**
 
 >a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to 
 edit over a generated guide - a new unique URL is assigned to the newly generated guide 
@@ -24,7 +24,7 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 >>>- unique URL
 >>>- user who generated the guide*
 
-*2 / Structures and UI Outline /*
+**2 / Structures and UI Outline /**
 
 >Simple to Complex - the idea behind the use of cards is to allow users to easily go through the main (or most important) information first, and then allow them to continue to learn more through expanding the cards and clicking through their links.
 
@@ -51,9 +51,9 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 	
 >>>>d.3 Timeline
 
-*3 / Users /*
+**3 / Users /**
 
-*4 / Visual Language /*
+**4 / Visual Language /**
 
 >a. Grid System
 	
@@ -63,7 +63,7 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 	
 >d. Study Guide Anatomy
 	
-*5 / Print Translation /*
+**5 / Print Translation /**
 
 >All available guides are designed to be easily exported as a PDF and printed into a letter-sized document. The four-grid default design for web screens follows the same format for print design-- allowing an easy translation to printed material. The information revealed on interactions (hidden from the digital version by default) will be readily displayed on the printed version, making the document information heavier than its interactive screen counterpart, but is outlined and arranged in an easy to navigate manner.
 	
@@ -71,7 +71,7 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 	
 >The aim of the print version is to allow users to access the generated guide without the need for bandwidth or screen time - It might be considered as a welcome alternative to help users go off screen, avoid it's readily available distractions, and focus on the information in the printed document.
 	
-*6 / Data and Information / (further research on gathering methods needed -focus on reputable databases?)*
+**6 / Data and Information /** *(further research on gathering methods needed -focus on reputable databases?)*
 
 >All data gathered is arranged in an easy to absorb manner. One of the goals of Apollo is to present gathered data to its users in its most simple form - allowing users to easily understand and learn a topic.
 	
