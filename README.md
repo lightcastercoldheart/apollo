@@ -8,7 +8,8 @@
 
 1 / Features List/
 
-a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to edit over a generated guide - a new unique URL is assigned to the newly generated guide 
+a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to 
+edit over a generated guide - a new unique URL is assigned to the newly generated guide 
 
 	a.1 - Guides generated off of other guides become a "child" to the "parent" or original guide. This aims to group together similar guides and archive versions of original and edited guides.
 	
@@ -78,5 +79,5 @@ a. Unique URLS - all generated guides are saved through a unique URL that both n
 		on the database, revealing consistencies/inconsistencies and generating an interactive guide based off of it.
 	
 	Technical: 
-	a
+	
 	* Allow users to scan in their notes - which will be translated to digital text and assessed by Apollo for integrity (this sounds like a new product and might work well on its own... "Athena?")
