@@ -80,6 +80,6 @@ c. Timeline
 		with the camera. Apollo translates the image into data and cross-checks the translated information to stored information
 		on the database, revealing consistencies/inconsistencies and generating an interactive guide based off of it.
 	
-	Technical:
+	Technical: 
 	a
 	* Allow users to scan in their notes - which will be translated to digital text and assessed by Apollo for integrity (this sounds like a new product and might work well on its own... "Athena?")
