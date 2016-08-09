@@ -24,7 +24,10 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 		- unique URL
 		- user who generated the guide*
 
-2 / Structures and UI Outline / 
+*2 / Structures and UI Outline /*
+
+	Simple to Complex - the idea behind the use of cards is to allow users to easily go through the main (or most important) information first, and then allow them to continue to learn more through expanding the cards and clicking through their
+	links.
 
 	a. Persistent Menu
 
@@ -39,7 +42,15 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 	- on click: displays information + reveals scrollable content if overflow is needed
 	- adequate padding from other content should be maintained to allow ease of interactivity and to increase legibility
     
-	c. Timeline
+	d. Header Cards
+	
+	Header cards usually populate the entire span of the top part of the guide and contains the following interactive elements:
+	
+	d.1 Guide Title
+
+	d.2 Linked Content Outline
+	
+	d.3 Timeline
 
 3 / Users /
 
