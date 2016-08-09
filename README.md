@@ -71,7 +71,7 @@ c. Timeline
 		
 		Stylesight (WGSN)
 		
-		<a href="https://login.ezproxy.lib.rmit.edu.au/login?url=http://searchit-rmit.hosted.exlibrisgroup.com/V/?func=native-link&login=GUEST&resource=RMI00570">Communication and Mass Media Complete (EBSCO)</a>
+		[Communication and Mass Media Complete (EBSCO)](https://login.ezproxy.lib.rmit.edu.au/login?url=http://searchit-rmit.hosted.exlibrisgroup.com/V/?func=native-link&login=GUEST&resource=RMI00570)
 		
 	
 	Data Captured by User: (Potential Feature Idea)
