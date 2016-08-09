@@ -1,10 +1,15 @@
 # Apollo V.1
 
-[Apollo](http://supersecretbanana.com/apollo-vis) is a study guide generator that creates interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space-- outlining and interlinking hierarchically arranged information. It aims to provide:
+[Apollo](http://supersecretbanana.com/apollo-vis) is a study guide generator that creates interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space; outlining and interlinking hierarchically arranged information. It aims to provide:
 
-	 - a brief linked outline / summary of important facts on the topic
+	 - a brief linked outline / summary of important facts on the topic (see header card)
 	 - a space for users to collaboratively learn with others on a specifically generated guide (quiz, progress tracking, and leaderboard features)
 	 - whenever possible, an interactive timeline of events
+
+Terms:
+
+	Cards
+	are the containers where generated data and interactive information will be populated into. 
 
 1 / Features List/
 
