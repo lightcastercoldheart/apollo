@@ -20,23 +20,20 @@ a. Unique URLS - all generated guides are saved through a unique URL that both n
 
 2 / Structures and UI Outline / 
 
-a. Persistent Menu
+	a. Persistent Menu
 
 	Displayed at the top part of the web screen and contains all needed settings and features
 
-b. Portrait Cards
+	b. Portrait Cards
 
 	Portrait cards act as containers for interactive elements or images.
 	
 	- a square block that displays an image(portrait) by default
-
 	- on hover: displays information on the image involving a header and body
-
 	- on click: displays information + reveals scrollable content if overflow is needed
-	
 	- adequate padding from other content should be maintained to allow ease of interactivity and to increase legibility
     
-c. Timeline
+	c. Timeline
 
 3 / Users /
 
