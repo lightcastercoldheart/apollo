@@ -9,7 +9,7 @@
 **Terms:**
 
 >*Cards*
->>are the containers where generated data and interactive information will be populated into. 
+>>are containers where generated data and interactive information will be populated into. They conform to a grid and change in height depending on the type and amount of information they are holding.
 
 **1 / Features List/**
 
