@@ -1,6 +1,6 @@
 # Apollo V.1
 
-Apollo is a study guide generator that creates interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space-- outlining and interlinking hierarchically arranged information. It aims to provide:
+[Apollo](http://supersecretbanana.com/apollo-vis) is a study guide generator that creates interactive infographics based on user topic input. Apollo gathers data and arranges it into a responsive, gridded space-- outlining and interlinking hierarchically arranged information. It aims to provide:
 
 	 - a brief linked outline / summary of important facts on the topic
 	 - a space for users to collaboratively learn with others on a specifically generated guide (quiz, progress tracking, and leaderboard features)
@@ -71,7 +71,7 @@ c. Timeline
 		
 		Stylesight (WGSN)
 		
-		[*Communication and Mass Media Complete* - EBSCO](http://google.com)
+		Communication and Mass Media Complete (EBSCO)
 		
 	
 	Data Captured by User: (Potential Feature Idea)
