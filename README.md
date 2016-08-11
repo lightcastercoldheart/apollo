@@ -11,7 +11,15 @@
 >*Cards*
 >>are containers where generated data and interactive information will be populated into. They conform to a grid and change in height depending on the type and amount of information they are holding.
 
->Header Card
+>>Header Card
+>>-Header cards contain interactive elements that summarize the overall content of the generated guide.
+
+>>1 - Guide Title
+
+>>2 - Linked Content Outline
+
+>>3 - Interactive Timeline
+
 
 
 
