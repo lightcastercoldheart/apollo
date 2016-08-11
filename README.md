@@ -11,6 +11,10 @@
 >*Cards*
 >>are containers where generated data and interactive information will be populated into. They conform to a grid and change in height depending on the type and amount of information they are holding.
 
+>Header Card
+
+
+
 **1 / Features List/**
 
 >a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to 
@@ -23,6 +27,10 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 >>>- time and date of generation
 >>>- unique URL
 >>>- user who generated the guide*
+
+>b. Quiz
+>>b.1 - Leaderboard
+>c. Progress Tracking
 
 **2 / Structures and UI Outline /**
 
