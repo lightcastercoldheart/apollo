@@ -15,6 +15,7 @@
 >>-Header cards contain interactive elements that summarize the overall content of the generated guide.
 
 >>1 - Guide Title
+>>> will be the keyword used to generate the guide, a subheader containing information wether the guide is based off of an existing guide as well as information on the additional modifications made, number of users, available features will be linked to the title expansion.
 
 >>2 - Linked Content Outline
 
