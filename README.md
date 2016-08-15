@@ -15,6 +15,9 @@
 >>-Header cards contain interactive elements that summarize the overall content of the generated guide.
 
 >>1 - Guide Title
+>>> Contains version information of generated guide (look into Github branching system)
+>>> Provides information on available features for the guide (quiz, leaderboard, user tracking)
+>>> Provides information on relative generated guides (will be able to show if it is based off of a parent guide as well as its children guides)
 
 >>2 - Linked Content Outline
 
