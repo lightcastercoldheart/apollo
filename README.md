@@ -15,10 +15,19 @@
 >>-Header cards contain interactive elements that summarize the overall content of the generated guide.
 
 >>1 - Guide Title
+>>> Contains version information of generated guide (look into Github branching system)
+>>> Provides information on available features for the guide (quiz, leaderboard, user tracking)
+>>> Provides information on relative generated guides (will be able to show if it is based off of a parent guide as well as its children guides)
 
 >>2 - Linked Content Outline
+>>> Content throughought the guide is interlinked and opens up certain cards that contain the linked information on the outline
+>>> This will act as the "anchor" or some sort of interactive table of contents that the user can click so they are directed to the content they need.
+>>> because contents are divided into card sections that group information based on their relevance with each other, users can easily access the information they require without having to look through a bigger block of information currently irrelevant to their need.
+>>> More information can be provided by linking guide content to reputable outside sources (online journal databases, scholar articles)
 
 >>3 - Interactive Timeline
+>>> Spans the entire width of the present document inside the header card. When present, the interactive timeline acts as a background for the linked content outline and guide title inside the header card.
+>>> This will be helpful for time/date-rich guides that will allow users to easily go through information on the guide based on date
 
 
 
