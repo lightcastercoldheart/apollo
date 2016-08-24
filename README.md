@@ -26,6 +26,8 @@
 >>> More information can be provided by linking guide content to reputable outside sources (online journal databases, scholar articles)
 
 >>3 - Interactive Timeline
+>>> Spans the entire width of the present document inside the header card. When present, the interactive timeline acts as a background for the linked content outline and guide title inside the header card.
+>>> This will be helpful for time/date-rich guides that will allow users to easily go through information on the guide based on date
 
 
 
