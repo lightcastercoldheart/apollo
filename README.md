@@ -21,16 +21,21 @@
 
 >>2 - Linked Content Outline
 >>> Content throughought the guide is interlinked and opens up certain cards that contain the linked information on the outline
+
 >>> This will act as the "anchor" or some sort of interactive table of contents that the user can click so they are directed to the content they need.
+
 >>> because contents are divided into card sections that group information based on their relevance with each other, users can easily access the information they require without having to look through a bigger block of information currently irrelevant to their need.
+
 >>> More information can be provided by linking guide content to reputable outside sources (online journal databases, scholar articles)
 
 >>3 - Interactive Timeline
 >>> Spans the entire width of the present document inside the header card. When present, the interactive timeline acts as a background for the linked content outline and guide title inside the header card.
+
 >>> This will be helpful for time/date-rich guides that will allow users to easily go through information on the guide based on date
 
-
-
+>>> Aggregated data with dates or information that can be displayed as a timeline
+will be generated as an interactive timeline for the header. If no timeline data is included in the information gathered, the interactive timeline is disabled and
+replaced by an image or color background depending on the most relevant data that can help generalize the type of information generated on the guide.
 
 **1 / Features List/**
 
