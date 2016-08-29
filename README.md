@@ -67,7 +67,9 @@ Leaderboarding is a feature that can be activated for each guide. This feature s
 
 >>a. Persistent Menu
 
->>>Displayed at the top part of the web screen and contains all needed settings and features
+>>>Displayed at the top part of the web screen and contains all needed settings and features. 
+
+>>> On smaller screens, the persistent menu turns into a persistent pop-up menu to make up more space for card information. 
 
 >>b. Portrait Cards
 
