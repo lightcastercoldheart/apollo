@@ -18,19 +18,27 @@
 >>> Contains version information of generated guide (look into Github branching system)
 >>> Provides information on available features for the guide (quiz, leaderboard, user tracking)
 >>> Provides information on relative generated guides (will be able to show if it is based off of a parent guide as well as its children guides)
+>>> Title subheaders will provide users with information on its parent guide / system guide (more on back-end information, maybe a tree that shows the parent-child system of the guide and their connections)
 
 >>2 - Linked Content Outline
 >>> Content throughought the guide is interlinked and opens up certain cards that contain the linked information on the outline
+>>> ?? Linked outlines as a persistent popup menu for smaller screens?
+
+
 >>> This will act as the "anchor" or some sort of interactive table of contents that the user can click so they are directed to the content they need.
+
 >>> because contents are divided into card sections that group information based on their relevance with each other, users can easily access the information they require without having to look through a bigger block of information currently irrelevant to their need.
+
 >>> More information can be provided by linking guide content to reputable outside sources (online journal databases, scholar articles)
 
 >>3 - Interactive Timeline
->>> Spans the entire width of the present document inside the header card. When present, the interactive timeline acts as a background for the linked content outline and guide title inside the header card.
+>>> Spans the entire width of the present document inside the header card. When present, the interactive timeline acts as a background for the linked content outline and guide title inside the header card. 
+
 >>> This will be helpful for time/date-rich guides that will allow users to easily go through information on the guide based on date
 
-
-
+>>> Aggregated data with dates or information that can be displayed as a timeline
+will be generated as an interactive timeline for the header. If no timeline data is included in the information gathered, the interactive timeline is disabled and
+replaced by an image or color background depending on the most relevant data that can help generalize the type of information generated on the guide.
 
 **1 / Features List/**
 
@@ -46,7 +54,11 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 >>>- user who generated the guide*
 
 >b. Quiz
+>>> The quiz feature locks the cards in a guide. To unlock the cards and access more information, the user must answer a question that is related to an unlocked card in the guide. This will help users test out whether they've learned something from the guide and help them learn more about the study guide's generated information.
+
 >>b.1 - Leaderboard
+Leaderboarding is a feature that can be activated for each guide. This feature shows which users have taken the quiz and have unlocked the most locked cards in the guide. This feature is only available if the quiz feature is activated.
+
 >c. Progress Tracking
 
 **2 / Structures and UI Outline /**
