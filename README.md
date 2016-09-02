@@ -55,6 +55,8 @@ edit over a generated guide - a new unique URL is assigned to the newly generate
 
 >b. Quiz
 >>> The quiz feature locks the cards in a guide. To unlock the cards and access more information, the user must answer a question that is related to an unlocked card in the guide. This will help users test out whether they've learned something from the guide and help them learn more about the study guide's generated information.
+>>> The quiz feature can be the flipside of the card that users need to answer correctly before it can finally be flipped over to reveal the next information
+This is sort of similar to index card guides students use as study aides. (look into how students use study aide materials specifically index cards)
 
 >>b.1 - Leaderboard
 Leaderboarding is a feature that can be activated for each guide. This feature shows which users have taken the quiz and have unlocked the most locked cards in the guide. This feature is only available if the quiz feature is activated.
@@ -133,3 +135,13 @@ Leaderboarding is a feature that can be activated for each guide. This feature s
 >>Technical: 
 	
 >>>* Allow users to scan in their notes - which will be translated to digital text and assessed by Apollo for integrity (this sounds like a new product and might work well on its own... "Athena?")
+
+---
+LOGS
+
+------
+090116
+------
+I have decided to start a progress log for Apollo. This is the first day I am recording a daily journal as to how Apollo is progressing (may it be slowly, or no progress at all - in which case, the log would involve some self humiliation so as to embarrass myself if anyone else ever decides to read this. If you are reading this and you're not me from the future, thank you and sorry for any profanities you might encounter if you ever choose to read further... If you are me from the future, find something else more productive to do you fuckity fuck fuck! )
+
+
