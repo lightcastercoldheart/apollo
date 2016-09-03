@@ -25,7 +25,6 @@
 >>> Content throughought the guide is interlinked and opens up certain cards that contain the linked information on the outline
 >>> ?? Linked outlines as a persistent popup menu for smaller screens?
 
-
 >>> This will act as the "anchor" or some sort of interactive table of contents that the user can click so they are directed to the content they need.
 
 >>> because contents are divided into card sections that group information based on their relevance with each other, users can easily access the information they require without having to look through a bigger block of information currently irrelevant to their need.
@@ -54,6 +53,14 @@ dynamic overall guide design.
 
 >>> Parent/Child Guide Layouts
 >>> Parent and children guides will have similarities and differences to avoid confusion while also maintain a level of familiarity and connection. Colors and layouts will be maintained while the changes made on each of the guide will be highlighted and it's closest connecting guide linked to easily see connected guide versions.
+
+>>>Constants and Variables
+>>>Constants
+>>> * Topic card title
+>>> * image block size (expanded/unexpanded)
+>>> *
+>>>Variables
+>>> * Text and image layout
 
 **1 / Features List/**
 
@@ -157,5 +164,11 @@ LOGS
 090116
 ------
 I have decided to start a progress log for Apollo. This is the first day I am recording a daily journal as to how Apollo is progressing (may it be slowly, or no progress at all - in which case, the log would involve some self humiliation so as to embarrass myself if anyone else ever decides to read this. If you are reading this and you're not me from the future, thank you and sorry for any profanities you might encounter if you ever choose to read further... If you are me from the future, find something else more productive to do you fuckity fuck fuck! )
+
+------
+090216
+------
+* Added layout option descriptions and outlined "topic cards." Thinking about how
+the generator will select one preset layout over another. Will need to study layout options and sketch out the possibilities for each card width and height as their behaviors when interacted with. Also, not feeling well and trying hard not to sneeze in the library 
 
 
