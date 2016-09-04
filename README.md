@@ -171,4 +171,9 @@ I have decided to start a progress log for Apollo. This is the first day I am re
 * Added layout option descriptions and outlined "topic cards." Thinking about how
 the generator will select one preset layout over another. Will need to study layout options and sketch out the possibilities for each card width and height as their behaviors when interacted with. Also, not feeling well and trying hard not to sneeze in the library 
 
+------
+090316
+------
+* Started initial designs for layout cards (needs to be tested). Thinking about adding interactions and showing expanded versions of topic card. Might need a higher fidelity prototype for showing them...
+
 
