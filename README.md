@@ -12,7 +12,7 @@
 >>are containers where generated data and interactive information will be populated into. They conform to a grid and change in height depending on the type and amount of information they are holding.
 
 >>Header Card
->>-Header cards contain interactive elements that summarize the overall content of the generated guide.
+>>-Header cards contain interactive elements that summarize the overall content of the generated guide. They are placed on top of each generated guide, providing users with anchored links that can easily direct them to a particular topic/card they are interested in
 
 >>1 - Guide Title
 >>> Contains version information of generated guide (look into Github branching system)
@@ -20,10 +20,10 @@
 >>> Provides information on relative generated guides (will be able to show if it is based off of a parent guide as well as its children guides)
 >>> Title subheaders will provide users with information on its parent guide / system guide (more on back-end information, maybe a tree that shows the parent-child system of the guide and their connections)
 
+
 >>2 - Linked Content Outline
 >>> Content throughought the guide is interlinked and opens up certain cards that contain the linked information on the outline
 >>> ?? Linked outlines as a persistent popup menu for smaller screens?
-
 
 >>> This will act as the "anchor" or some sort of interactive table of contents that the user can click so they are directed to the content they need.
 
@@ -40,10 +40,31 @@
 will be generated as an interactive timeline for the header. If no timeline data is included in the information gathered, the interactive timeline is disabled and
 replaced by an image or color background depending on the most relevant data that can help generalize the type of information generated on the guide.
 
+>> Topic Cards
+>>> Information generated into the guide are separated into topics. The generator recognizes keywords and categorizes them into a topic card that holds relevant information users can easily have access to.
+
+>>> The size of a topic card depends on the  amount of information it holds. Depending on screen size, it's width can also span from 4 grids to 1. Width of the cards will depend on several factors: Width of images + amount of text, size and layout of the previous card it follows
+
+>>*Card Layout and Generated Arrangement*
+>>> Topic cards have several layout options that the generator can randomly select through a criteria. The goal for varied layouts is to provide users with a dynamic and less uniform approach so as to differentiate each card, and not make it look too similar. This follows graphic design and layout rules for a more
+dynamic overall guide design.
+
+>>> Header Card Layout will strictly depend on the amount of overview informationa available so as to develop a more uniform look across all generated guides. Title information and timeline backgrounds will be the varying elements that would make the header cards look distinct from other guides.
+
+>>> Parent/Child Guide Layouts
+>>> Parent and children guides will have similarities and differences to avoid confusion while also maintain a level of familiarity and connection. Colors and layouts will be maintained while the changes made on each of the guide will be highlighted and it's closest connecting guide linked to easily see connected guide versions.
+
+>>>Constants and Variables
+>>>Constants
+>>> * Topic card title
+>>> * image block size (expanded/unexpanded)
+>>> *
+>>>Variables
+>>> * Text and image layout
+
 **1 / Features List/**
 
->a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to 
-edit over a generated guide - a new unique URL is assigned to the newly generated guide 
+>a. Unique URLS - all generated guides are saved through a unique URL that both new and old users can revisit. When a user chooses to  edit over a generated guide - a new unique URL is assigned to the newly generated guide 
 
 >>a.1 - Guides generated off of other guides become a "child" to the "parent" or original guide. This aims to group together similar guides and archive versions of original and edited guides.
 	
@@ -143,5 +164,11 @@ LOGS
 090116
 ------
 I have decided to start a progress log for Apollo. This is the first day I am recording a daily journal as to how Apollo is progressing (may it be slowly, or no progress at all - in which case, the log would involve some self humiliation so as to embarrass myself if anyone else ever decides to read this. If you are reading this and you're not me from the future, thank you and sorry for any profanities you might encounter if you ever choose to read further... If you are me from the future, find something else more productive to do you fuckity fuck fuck! )
+
+------
+090216
+------
+* Added layout option descriptions and outlined "topic cards." Thinking about how
+the generator will select one preset layout over another. Will need to study layout options and sketch out the possibilities for each card width and height as their behaviors when interacted with. Also, not feeling well and trying hard not to sneeze in the library 
 
 
