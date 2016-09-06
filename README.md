@@ -49,6 +49,9 @@ replaced by an image or color background depending on the most relevant data tha
 >>> Topic cards have several layout options that the generator can randomly select through a criteria. The goal for varied layouts is to provide users with a dynamic and less uniform approach so as to differentiate each card, and not make it look too similar. This follows graphic design and layout rules for a more
 dynamic overall guide design.
 
+>>Topic Card Expansion
+>>> When focused, topic cards will expand and provide user with additional information. This can include additional images, and interactive elements such as slideshows or a scroll function for overflow in case the height of the card is not enough to hold all text content even when it is expanded.
+
 >>> Header Card Layout will strictly depend on the amount of overview informationa available so as to develop a more uniform look across all generated guides. Title information and timeline backgrounds will be the varying elements that would make the header cards look distinct from other guides.
 
 >>> Parent/Child Guide Layouts
@@ -175,5 +178,10 @@ the generator will select one preset layout over another. Will need to study lay
 090316
 ------
 * Started initial designs for layout cards (needs to be tested). Thinking about adding interactions and showing expanded versions of topic card. Might need a higher fidelity prototype for showing them...
+
+------
+090516
+------
+* Starting to flesh out screens on adobe XD for testing flows. Uncovering expansions and interaction possibilities for topic and header cards. Pretty exciting stuff. Doesn't help that I ripped my calluses doing pullups though
 
 
