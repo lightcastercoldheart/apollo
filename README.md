@@ -43,6 +43,8 @@ replaced by an image or color background depending on the most relevant data tha
 >> Topic Cards
 >>> Information generated into the guide are separated into topics. The generator recognizes keywords and categorizes them into a topic card that holds relevant information users can easily have access to.
 
+>>> Topic card information when unexpanded will be limited to bulleted points that should not exceed more than two sentences or three lines on the card. Information will be limited to an outline that users can read more on once they choose to expand the card.
+
 >>> The size of a topic card depends on the  amount of information it holds. Depending on screen size, it's width can also span from 4 grids to 1. Width of the cards will depend on several factors: Width of images + amount of text, size and layout of the previous card it follows
 
 >>*Card Layout and Generated Arrangement*
@@ -183,5 +185,10 @@ the generator will select one preset layout over another. Will need to study lay
 090516
 ------
 * Starting to flesh out screens on adobe XD for testing flows. Uncovering expansions and interaction possibilities for topic and header cards. Pretty exciting stuff. Doesn't help that I ripped my calluses doing pullups though
+
+------
+090516
+------
+* Implementation of paragraphs verus bullet points limited to a sentence.
 
 
