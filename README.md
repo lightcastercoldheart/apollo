@@ -191,4 +191,8 @@ the generator will select one preset layout over another. Will need to study lay
 ------
 * Implementation of paragraphs verus bullet points limited to a sentence.
 
+------
+090716
+------
+* Will try to challenge this idea with new ones. But still continue to develop the outline structure for Apollo. Research more on Nicholas Felton and his work on Facebook's Timeline, data aggregation, P5.js and Processing. Link how data gathered is displayed visually and how it is gathered and collated.
 
