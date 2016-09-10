@@ -196,3 +196,8 @@ the generator will select one preset layout over another. Will need to study lay
 ------
 * Will try to challenge this idea with new ones. But still continue to develop the outline structure for Apollo. Research more on Nicholas Felton and his work on Facebook's Timeline, data aggregation, P5.js and Processing. Link how data gathered is displayed visually and how it is gathered and collated.
 
+------
+091016
+------
+* Did D3 research and starting to think about how to implement generated data on the card. Also starting to consider color and some limited customization for the guide - something similar to the experience of using a highlighter but instead of highlighting words, you can highlight an entire card or perhaps part of it. (Secondary, less important feature...)
+
